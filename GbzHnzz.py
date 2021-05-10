@@ -6,8 +6,7 @@ import threading
 
 print("~~~ DDOS BY Mr.GbzHnzz ~~~")
 print("~~~ Scripting By GbzHnzz ~~~")
-print("~~~ SCRIPT DDOS ATTACK ~~~")\
-print("~~~ YOUTUBE : GbzHnzz ~~~")
+print("~~~ YouTube : GbzHnzz ~~~")\
 ip = str(input(" TARGET (IP):"))
 port = int(input(" TAEGET (PORT):"))
 choice = str(input(" WITH UDP? (Y/N):"))
