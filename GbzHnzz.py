@@ -7,7 +7,6 @@ import threading
 print("~~~ DDOS BY Mr.GbzHnzz ~~~")
 print("~~~ Scripting By GbzHnzz ~~~")
 print("~~~ SCRIPT DDOS ATTACK ~~~")\
-print("~~~ DISCORD : GbzHnz#3700 ~~~")
 print("~~~ YOUTUBE : GbzHnzz ~~~")
 ip = str(input(" TARGET (IP):"))
 port = int(input(" TAEGET (PORT):"))
